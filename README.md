@@ -18,10 +18,10 @@
 
 ### Cloud Platforms
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=FF9900" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Azure-0078D4?style=for-the-badge&logo=msazure&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/NHN_Cloud-2B5CDE?style=for-the-badge&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/NHN_Cloud-2B5CDE?style=for-the-badge&logo=nhncloud&logoColor=white" />
   <img src="https://img.shields.io/badge/NCloud-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
 </p>
 
@@ -36,7 +36,7 @@
 ### Collaboration
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
