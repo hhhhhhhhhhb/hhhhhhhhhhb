@@ -1,10 +1,8 @@
-<h1 align="center">Hi there, I'm Hyobeom 👋</h1>
-
-<p align="center">
+<h1>Hi there, I'm Hyobeom 👋</h1>
+<p>
   <strong>Cloud Engineer & SRE</strong><br>
   Building and operating scalable cloud infrastructure
 </p>
-
 <br>
 
 ## ☁️ About Me
