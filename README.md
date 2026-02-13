@@ -18,7 +18,7 @@
 
 ### Cloud Platforms
 <p>
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=FF9900" />
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Azure-0078D4?style=for-the-badge&logo=msazure&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/NHN_Cloud-2B5CDE?style=for-the-badge&logo=nhncloud&logoColor=white" />
@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/hyobeom/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
