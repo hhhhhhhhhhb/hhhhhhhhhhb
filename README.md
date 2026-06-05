@@ -47,6 +47,35 @@
 
 <br>
 
+## 📜 Certifications
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <img src="assets/certs/aws-saa-professional.png" height="90" alt="AWS Certified Solutions Architect – Professional" /><br>
+      <sub><b>AWS Certified</b><br>Solutions Architect – Professional</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="assets/certs/azure-administrator-associate.png" height="90" alt="Microsoft Certified: Azure Administrator Associate" /><br>
+      <sub><b>Microsoft Certified</b><br>Azure Administrator Associate</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="assets/certs/naver-cloud-professional.png" height="90" alt="NAVER Cloud Platform Certified Professional" /><br>
+      <sub><b>NAVER Cloud Platform</b><br>Certified Professional</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="assets/certs/oracle-certified-associate.png" height="90" alt="Oracle Certified Associate" /><br>
+      <sub><b>Oracle</b><br>Certified Associate</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="assets/certs/datadog-dpn-specialist.png" height="90" alt="Datadog Certified – DPN Technical Specialist" /><br>
+      <sub><b>Datadog Certified</b><br>DPN Technical Specialist</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 ## 📫 How to Reach Me
 
 <p>
